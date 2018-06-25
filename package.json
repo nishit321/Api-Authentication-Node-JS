@@ -1,0 +1,8 @@
+{
+  "name": "api-auth",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
+  }
+}
